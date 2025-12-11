@@ -1,17 +1,17 @@
 
 ---
 
-# ✅ 4) **Bank Management System — README**
+ ✅ 4) **Bank Management System — README**
 
-```md
-# 🏦 Bank Management System — Python
+
+## 🏦 Bank Management System — Python
 
 A simple console-based bank system made in Python.  
 It allows users to create accounts, deposit money, withdraw money, and check balance.
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 - Create bank account  
 - Deposit money  
 - Withdraw money  
@@ -21,11 +21,11 @@ It allows users to create accounts, deposit money, withdraw money, and check bal
 
 ---
 
-## 📌 Requirements
+# 📌 Requirements
 - Python 3.x
 
 ---
 
-## ▶️ How to Run
-```bash
+# ▶️ How to Run
+
 python bank_system.py
